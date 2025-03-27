@@ -98,9 +98,3 @@ When a message processing fails (resulting in a NACK), the queue can:
 - **Load Leveling**: Handles traffic spikes by temporarily storing messages
 - **Ordering**: Maintains sequence for operations that need to be processed in order
 
-
-## Built With
-
-- React
-- Vite
-- CSS
